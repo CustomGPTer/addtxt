@@ -1,12 +1,7 @@
 # AddTxt
 
-AddTxt is a free Android app for putting text on photos: 1,939 fonts, 92 ready-made styles, layers, shapes,
-stickers, drawing, picture tools, brand kits and batch. It has no adverts, no accounts and no paid version,
-and everything is done on the phone.
+AddTxt is a free Android app for adding text to photos: 1,939 fonts, 92 ready-made styles, text along any line, layers, shapes, safety signs, a pen, brand kits and batches. No adverts, no uploads.
 
-- Website: https://customgpter.github.io/addtxt/
-- Latest app file: https://github.com/CustomGPTer/addtxt/releases/latest
-- Release notes: https://customgpter.github.io/addtxt/releases.html
-- Privacy: https://customgpter.github.io/addtxt/privacy.html
+Website: https://customgpter.github.io/addtxt/
 
-This repository holds the website and the releases. To report a problem, open an issue.
+Download: https://github.com/CustomGPTer/addtxt/releases/latest/download/AddTxt.apk
