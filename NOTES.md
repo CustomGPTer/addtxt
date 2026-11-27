@@ -1,11 +1,7 @@
-First release of AddTxt, a free Android app for putting text on photos.
+AddTxt 1.0.1 joins TorusApps.com.
 
-- 1,939 fonts (170 built in), 92 ready-made styles, styling for single words, lists and a special-character picker
-- Text along an arc, a wave or a line you draw; two outlines, shadow, glow, 3D, tilt, patterns and photo fill
-- Photo layers, shapes with words inside, emoji, safety signs, site symbols and your own stickers
-- Pen, marker, pixelate and blur brushes; picture effects, adjust, crop, resize, turn and flip
-- Layers with groups and a history list, snap guides, a grid and an optional key box
-- Brand kits, batch onto more photos, and saving as PNG, JPG or PDF
-- An optional automatic cut-out, off until you switch it on
+- More apps, updates, the website and privacy links now open torusapps.com.
+- The update check reads the signed TorusApps catalogue and opens AddTxt's page; nothing downloads inside the app.
+- A new opening screen, and About shows the developer and hello@torusapps.com.
 
-Android 11 or later. Install `AddTxt.apk` below. Full notes: https://customgpter.github.io/addtxt/releases.html
+Installs over 1.0 and keeps your projects. Android 11 or later.
